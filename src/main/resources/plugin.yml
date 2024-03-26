@@ -1,0 +1,16 @@
+name: WelcomeTitle
+version: '1.0'
+main: tw.ch1ck3n.welcometitle.WelcomeTitle
+api-version: '1.20'
+commands:
+  wtreload:
+    description: "Command for reloading WelcomeTitle"
+    permission: wt.reload
+  wttest:
+    description: "Command for testing WelcomeTitle"
+    permission: wt.test
+permissions:
+  wt.reload:
+    default: op
+  wt.test:
+    default: op

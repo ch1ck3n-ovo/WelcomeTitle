@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WelcomeTitle:jar">
+    <output-path>$PROJECT_DIR$/../../1.20.4 Survival 481/plugins</output-path>
+    <root id="archive" name="WelcomeTitle.jar">
+      <element id="module-output" name="WelcomeTitle" />
+    </root>
+  </artifact>
+</component>
